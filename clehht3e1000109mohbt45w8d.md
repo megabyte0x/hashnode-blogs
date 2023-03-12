@@ -1,4 +1,16 @@
-# Building Cross-Chain NFT using Router Protocol's CrossTalk Library
+---
+title: "Building Cross-Chain NFT using Router Protocol's CrossTalk Library"
+seoTitle: "Building Cross-Chain NFT using Solidity for Polygon and Avalanche."
+seoDescription: "Solidity Tutorial for building a Cross-Chain NFT (ERC721), to transfer an NFT from Avalanche to Polygon using Router Protocol's Cross-Talk Library."
+datePublished: Thu Feb 23 2023 19:23:54 GMT+0000 (Coordinated Universal Time)
+cuid: clehht3e1000109mohbt45w8d
+slug: router-portocol-crosstalk
+canonical: https://blog.developerdao.com/router-portocol-crosstalk
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677178523836/98083569-d0e9-458c-93a6-133a2a0056d6.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677179834743/881ff369-b31c-4082-bd61-ff1ebdcfc0ca.png
+tags: solidity, nft, polygon, avalanche, hardhat
+
+---
 
 **gm gm gm!!!**
 
