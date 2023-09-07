@@ -5,8 +5,8 @@ seoDescription: "A detailed guide to Hyperlane Interoperability Protocol, explai
 datePublished: Sat Sep 02 2023 11:32:41 GMT+0000 (Coordinated Universal Time)
 cuid: clm1y2tbh000409jmf8xq0c4b
 slug: a-z-of-hyperlane
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693635122839/b05ed266-7cfa-4b6c-931d-c051f3ba7f95.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1693635104057/faea9115-de75-4616-9524-0bdec03eef0e.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694094779379/19fba965-6afe-4c0b-bb91-83a13f2f3da1.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1694094800794/9ce78841-e432-4fd9-ae38-fd2df716e705.png
 tags: blockchain, ethereum, solidity, polygon, hyperlane
 
 ---
