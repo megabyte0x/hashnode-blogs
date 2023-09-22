@@ -30,6 +30,10 @@ There are 5 steps we need to follow so LFG🚀
 * Solidity Experience (BONUS)
     
 
+> Before moving forward, if you like to understand Hyperlane in-depth (which you should!) check this out:
+> 
+> %[https://blog.megabyte0x.xyz/a-z-of-hyperlane] 
+
 # Setup Keys
 
 When you deploy Hyperlane Protocol it includes Smart Contracts, Validators and Relayers therefore we will be requiring **Key Pair** for each of them.
@@ -82,15 +86,15 @@ Follow these steps to set up the Hyperlane Deployment repo:
 * Open your terminal at your preferred directory.
     
 * ```bash
-    git clone https://github.com/hyperlane-xyz/hyperlane-deploy.git
+      git clone https://github.com/hyperlane-xyz/hyperlane-deploy.git
     ```
     
 * ```bash
-    cd hyperlane-deploy
+      cd hyperlane-deploy
     ```
     
 * ```bash
-    yarn install
+      yarn install
     ```
     
 
