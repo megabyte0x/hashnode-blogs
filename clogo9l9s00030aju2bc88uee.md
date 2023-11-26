@@ -132,11 +132,11 @@ if you have **GRT** on ARB already, congrats! You are one step ahead and can mov
 
 For those who don't have **GRT** on ARB, let's experience some true web3 UX 😜
 
-### briding ETH from Ethereum Mainnet to Arbitrum One
+### bridging ETH from Ethereum Mainnet to Arbitrum One
 
 To get your GRT from Ethereum Mainnet to Arbitrum One you need to bridge it, and for that follow the steps:
 
-1. Head to Official Arbitrum Bridge ([https://bridge.arbitrum.io/](https://bridge.arbitrum.io/))
+1. Head to the Official Arbitrum Bridge ([https://bridge.arbitrum.io/](https://bridge.arbitrum.io/))
     
     ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1694456485355/3a231a41-d384-49f5-88bd-47ea2a0fb6cc.png align="center")
     
