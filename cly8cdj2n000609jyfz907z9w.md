@@ -9,8 +9,6 @@ tags: startups
 
 ---
 
-# Introduction
-
 I recently saw Sam Altman's session on YouTube regarding **How to succeed with a startup.**
 
 This session resonated with me, my co-founder, and our team.
