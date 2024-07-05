@@ -1,6 +1,8 @@
 ---
 title: "How to Succeed with a Startup"
-datePublished: Fri Jul 05 2024 06:56:01 GMT+0000 (Coordinated Universal Time)
+seoTitle: "Startup Success by Sam Altman"
+seoDescription: "Key points on how to make a successful startup by Sam Altman."
+datePublished: Tue Jun 18 2024 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cly8cdj2n000609jyfz907z9w
 slug: how-to-succeed-with-a-startup
 tags: startups
