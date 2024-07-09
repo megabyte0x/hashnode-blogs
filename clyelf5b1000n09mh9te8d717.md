@@ -5,7 +5,7 @@ seoDescription: "A simple explanation about AO economics and its tokenomics to m
 datePublished: Tue Jul 09 2024 15:55:50 GMT+0000 (Coordinated Universal Time)
 cuid: clyelf5b1000n09mh9te8d717
 slug: ao-tokenomics
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720520827801/88fac5c5-fe01-45a9-aa24-07853e02335d.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720541793534/c35f23ef-ac3a-415e-8adb-f8f2ca1e7154.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1720520889148/91fd37ac-2d01-4da7-aa70-1c590d138ba9.png
 tags: arweave, tokenomics, ao
 
