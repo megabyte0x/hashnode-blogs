@@ -7,7 +7,6 @@ cuid: clyelf5b1000n09mh9te8d717
 slug: ao-tokenomics
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720624733583/9ed9db2b-642d-496b-8805-a76f4e679f77.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1720624760398/2069e7fd-6f30-48df-b319-64804a5ea247.png
-tags: arweave, tokenomics, ao
 
 ---
 
