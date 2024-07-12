@@ -43,9 +43,9 @@ Since the state is not shared with other actors, no actor is required to wait fo
 
 If the actors want to communicate with other actors, they need to use message-passing flow, which is the only method for actors to communicate with each other.
 
-> ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720696272686/dd705cae-fc60-45ed-ac6a-70276bde723e.png align="center")
-> 
-> You can imagine an actor as a piece of code with its own class and variables and is not dependent on the variables or classes of other code to get executed. If an actor *(actor2)* wants to read any variable, the source actor *(actor1)* will execute a separate function to send a message with the requested data.
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720774853401/bb90bcc4-d7b6-4c18-8fae-169de4fa7651.png align="center")
+
+You can imagine an actor as a piece of code with its own class and variables and is not dependent on the variables or classes of other code to get executed. If an actor *(actor2)* wants to read any variable, the source actor *(actor1)* will execute a separate function to send a message with the requested data.
 
 # State Management
 
