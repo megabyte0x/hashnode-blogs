@@ -1,7 +1,7 @@
 ---
 title: "Actor Oriented Model: Part 1"
 seoTitle: "What is Actor Oriented Model?"
-seoDescription: "Guide to Actor-Oriented Model, which enables the building of blockchain with high scalability and computation."
+seoDescription: "Guide to Actor-Oriented Model, which enables the building of network with high scalability and computation."
 datePublished: Thu Jul 11 2024 12:30:19 GMT+0000 (Coordinated Universal Time)
 cuid: clyh8ykas000d0aju3hlvbpkz
 slug: actor-oriented-model-part-1
