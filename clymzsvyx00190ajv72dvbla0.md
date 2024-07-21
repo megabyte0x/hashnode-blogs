@@ -7,7 +7,6 @@ cuid: clymzsvyx00190ajv72dvbla0
 slug: actor-oriented-model-part-2
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721047321234/bb456ede-276e-4bda-9aba-2f20a7e49cfe.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1721047325051/cff4d303-f805-4bea-bcb1-712e90899496.png
-tags: blockchain, arweave, ao, actor-oriented
 
 ---
 
