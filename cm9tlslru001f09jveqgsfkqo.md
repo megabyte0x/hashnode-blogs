@@ -4,7 +4,6 @@ datePublished: Wed Apr 23 2025 07:19:36 GMT+0000 (Coordinated Universal Time)
 cuid: cm9tlslru001f09jveqgsfkqo
 slug: eigen-layer-the-trusted-verifiable-cloud
 canonical: https://paragraph.com/@megabyte/eigen-layer-the-trusted-verifiable-cloud
-tags: ethereum, decentralization, eigenlayer, Restaking
 
 ---
 
