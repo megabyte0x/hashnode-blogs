@@ -2,7 +2,7 @@
 title: "Become a Delegator in Graph Protocol on ARB"
 seoTitle: "GRT Delegation in Graph Protocol on ARB"
 seoDescription: "A step-by-step guide to delegate GRT in Graph Protocol on Arbitrum."
-datePublished: Thu Nov 02 2023 04:13:59 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-11-02T04:13:59.152Z
 cuid: clogo9l9s00030aju2bc88uee
 slug: delegator-in-graph-protocol-on-arb
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698849250379/7c1fd36a-8a56-42b6-894d-b21e7d579d22.png
