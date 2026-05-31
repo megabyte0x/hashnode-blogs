@@ -2,7 +2,7 @@
 title: "Deploy your OWN Hyperlane"
 seoTitle: "How to deploy Hyperlane?"
 seoDescription: "Guide to deploy Hyperlane on Polygon zkEVM, Mumbai Testnet and Sepolia."
-datePublished: Thu Sep 21 2023 06:01:54 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-09-21T06:01:54.585Z
 cuid: clmsrmlqx000t0amj02kx3tre
 slug: deploy-your-own-hyperlane
 canonical: https://blog.hyperlaneindia.xyz/permissionless-deployment
