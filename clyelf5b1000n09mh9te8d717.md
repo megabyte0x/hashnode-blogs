@@ -2,7 +2,7 @@
 title: "AO - 100% Community TGE"
 seoTitle: "AO Economics + Tokenomics"
 seoDescription: "A simple explanation about AO economics and its tokenomics to make it a 100 per cent community."
-datePublished: Tue Jul 09 2024 15:55:50 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-09T15:55:50.557Z
 cuid: clyelf5b1000n09mh9te8d717
 slug: ao-tokenomics
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720624733583/9ed9db2b-642d-496b-8805-a76f4e679f77.png
