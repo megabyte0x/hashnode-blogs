@@ -2,7 +2,7 @@
 title: "Actor Oriented Model: Part 1"
 seoTitle: "What is Actor Oriented Model?"
 seoDescription: "Guide to Actor-Oriented Model, which enables the building of network with high scalability and computation."
-datePublished: Thu Jul 11 2024 12:30:19 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-11T12:30:19.972Z
 cuid: clyh8ykas000d0aju3hlvbpkz
 slug: actor-oriented-model-part-1
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720698316687/8a296ce7-05df-4893-a22d-e7ffc5a3b609.png
