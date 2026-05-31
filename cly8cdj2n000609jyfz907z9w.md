@@ -2,7 +2,7 @@
 title: "How to Succeed with a Startup"
 seoTitle: "Startup Success by Sam Altman"
 seoDescription: "Key points on how to make a successful startup by Sam Altman."
-datePublished: Tue Jun 18 2024 18:30:00 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-06-18T18:30:00.000Z
 cuid: cly8cdj2n000609jyfz907z9w
 slug: how-to-succeed-with-a-startup
 tags: startups
