@@ -2,7 +2,7 @@
 title: "How to build Reddit's NFT Marketplace using Polygon and Paper 📄"
 seoTitle: "Reddit like Gasless NFT Marketplace"
 seoDescription: "Discover an NFT marketplace for non-web3 users with an intuitive UI, quick onboarding, and seamless transactions. Simplify your NFT experience"
-datePublished: Thu Apr 13 2023 13:25:02 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-04-13T13:25:02.239Z
 cuid: clgf5kbkv000e09l8htpv7155
 slug: nft-marketplace-using-paper
 canonical: https://blog.developerdao.com/nft-marketplace-with-paper
