@@ -2,7 +2,7 @@
 title: "Actor Oriented Model: Part 2"
 seoTitle: "Lifecycle of an Actor and Communication between Actors"
 seoDescription: "A guide to understanding the lifecycle of an actor and communication between actors, in the actor-oriented model."
-datePublished: Mon Jul 15 2024 13:00:35 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-07-15T13:00:35.673Z
 cuid: clymzsvyx00190ajv72dvbla0
 slug: actor-oriented-model-part-2
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721047321234/bb456ede-276e-4bda-9aba-2f20a7e49cfe.png
