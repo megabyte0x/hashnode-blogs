@@ -2,7 +2,7 @@
 title: "Building a TokenSwap Subgraph"
 seoTitle: "Deploy Subgraphs for Token Swap Contract"
 seoDescription: "Learn to build and deploy subgraphs with The Graph Protocol for token swaps on Polygon. This guide covers Solidity, GraphQL, and more."
-datePublished: Fri Oct 27 2023 05:52:50 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-10-27T05:52:50.340Z
 cuid: clo875lt000170al3fgar69qa
 slug: building-token-swap-subgraph
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694020968182/ad8d2e56-b8ac-4427-964a-15f3c2904756.png
