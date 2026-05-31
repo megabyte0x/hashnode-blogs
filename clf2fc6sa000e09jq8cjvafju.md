@@ -2,7 +2,7 @@
 title: "Why is Chain Interoperability Required for Web3???"
 seoTitle: "Why is chain interoperability required in web3?"
 seoDescription: "Chain Interoperability or Cross Chain requirements in the growth of web3 in terms of scalability, security, and decentralization and risk associated with it"
-datePublished: Fri Mar 10 2023 10:57:56 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-03-10T10:57:56.314Z
 cuid: clf2fc6sa000e09jq8cjvafju
 slug: why-is-chain-interoperability-required-for-web3
 canonical: https://blog.developerdao.com/why-is-chain-interoperability-required-for-web3
