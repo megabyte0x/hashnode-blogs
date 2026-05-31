@@ -2,7 +2,7 @@
 title: "A-Z of Hyperlane"
 seoTitle: "Guide to Hyperlane Interoperability Protocol."
 seoDescription: "A detailed guide to Hyperlane Interoperability Protocol, explaining Contracts, Mailbox, ISM, IGP, Validators, and Relayers and cross chain working."
-datePublished: Sat Sep 02 2023 11:32:41 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-09-02T11:32:41.837Z
 cuid: clm1y2tbh000409jmf8xq0c4b
 slug: a-z-of-hyperlane
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694094779379/19fba965-6afe-4c0b-bb91-83a13f2f3da1.png
