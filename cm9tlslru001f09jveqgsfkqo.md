@@ -1,6 +1,6 @@
 ---
 title: "Eigen Layer: The trusted, verifiable cloud"
-datePublished: Wed Apr 23 2025 07:19:36 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-04-23T07:19:36.762Z
 cuid: cm9tlslru001f09jveqgsfkqo
 slug: eigen-layer-the-trusted-verifiable-cloud
 canonical: https://paragraph.com/@megabyte/eigen-layer-the-trusted-verifiable-cloud
