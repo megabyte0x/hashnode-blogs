@@ -2,7 +2,7 @@
 title: "Fermah"
 seoTitle: "Fermah: Proof Marketplace"
 seoDescription: "Fermah is a proof marketplace, built using AVS in Eigen Layer to provide cheap and reliable proof generation."
-datePublished: Sat Apr 26 2025 03:49:58 GMT+0000 (Coordinated Universal Time)
+datePublished: 2025-04-26T03:49:58.208Z
 cuid: cm9xomk3k000f09kvbxdrd2vq
 slug: fermah
 canonical: https://paragraph.com/@megabyte/fermah
